@@ -1,0 +1,14 @@
+/home/paco/Lozquer/bin/Debug/netcoreapp2.2/Lozquer.deps.json
+/home/paco/Lozquer/bin/Debug/netcoreapp2.2/Lozquer.runtimeconfig.json
+/home/paco/Lozquer/bin/Debug/netcoreapp2.2/Lozquer.runtimeconfig.dev.json
+/home/paco/Lozquer/bin/Debug/netcoreapp2.2/Lozquer.dll
+/home/paco/Lozquer/bin/Debug/netcoreapp2.2/Lozquer.pdb
+/home/paco/Lozquer/obj/Debug/netcoreapp2.2/Lozquer.csprojAssemblyReference.cache
+/home/paco/Lozquer/obj/Debug/netcoreapp2.2/Lozquer.csproj.CoreCompileInputs.cache
+/home/paco/Lozquer/obj/Debug/netcoreapp2.2/Lozquer.RazorAssemblyInfo.cache
+/home/paco/Lozquer/obj/Debug/netcoreapp2.2/Lozquer.RazorAssemblyInfo.cs
+/home/paco/Lozquer/obj/Debug/netcoreapp2.2/Lozquer.AssemblyInfoInputs.cache
+/home/paco/Lozquer/obj/Debug/netcoreapp2.2/Lozquer.AssemblyInfo.cs
+/home/paco/Lozquer/obj/Debug/netcoreapp2.2/Lozquer.RazorTargetAssemblyInfo.cache
+/home/paco/Lozquer/obj/Debug/netcoreapp2.2/Lozquer.dll
+/home/paco/Lozquer/obj/Debug/netcoreapp2.2/Lozquer.pdb
